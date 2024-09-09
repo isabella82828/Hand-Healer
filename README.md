@@ -1,2 +1,2 @@
-# Hand-Healer
+# Handy-Healer
 Handy Healer
