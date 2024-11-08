@@ -2,6 +2,8 @@
 
 The Handy Healer is an EMG-controlled prosthetic device, leveraging muscle signals to provide intuitive and precise movements for burn victims who have undergone amputation. This control mechanism ensures that the user can manage wound care tasks independently and with ease.
 
+[Mechanism Presentation & Videos](https://docs.google.com/presentation/d/1afDeB1RQySonYmyz2kjFBbh7bRweZkJRl7QNd0jBZtE/edit?usp=sharing)
+
 ## Features:
 
 - Precision Movement: Utilizes the HSR-1425CR motor for smooth, controlled rotation that ensures accurate ointment application.
